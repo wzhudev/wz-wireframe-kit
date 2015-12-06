@@ -4,7 +4,7 @@ Draw wireframes quickly and easily. Bring convenience to your work!
 ## What's this?
 `wz_wireframe_kit.sketch` contains lots of elements you can use in your wireframes files.
 
-![wz_wireframe_kit.sketch](http://)
+![wz_wireframe_kit.sketch](https://github.com/wendzhue/wz_wireframe_kit_sketch/blob/master/Preview/preview-1.png)
 
 **iPhone 6 Mockup**. Four kinds of iPhone 6 mockups. Important, Blank, With Navigation, With Tab Bar. To bring convenience to your work...
 
