@@ -21,5 +21,9 @@ I have seen and used lots of wireframe kits. Though they are all beautiful enoug
 ## How to use?
 Download, open, copy, paste and edit! That's easy!
 
+Use `iPhone Mockups` and `Interface Elements` to sketch interfaces . Use `Links` to demonstrate relations among the screens. And use `Tags` to write interaction guidelines for engineers.
+
+An example here, a news feed app wireframe:
+
 ## Offer help!
 Whatever you want, make an issue in the repository and I will try my best to make improvements. And welcome to make pull requests!
