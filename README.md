@@ -4,6 +4,8 @@ Draw wireframes quickly and easily. Bring convenience to your work!
 ## What's this?
 `wz_wireframe_kit.sketch` contains lots of elements you can use in your wireframes files.
 
+I have seen and used lots of wireframe kits. Though they are all beautiful enough, they are not friendly to others. They have no explanations telling how the app works. So I designed `wz_wireframe_kit.sketch` and hope it could be friendly to designers, product managers and engineers, making wireframe a useful tool for communication.
+
 ![wz_wireframe_kit.sketch](https://github.com/wendzhue/wz_wireframe_kit_sketch/blob/master/Preview/preview-1.png)
 
 **iPhone 6 Mockup**. Four kinds of iPhone 6 mockups. Important, Blank, With Navigation, With Tab Bar. To bring convenience to your work...
