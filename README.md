@@ -1,29 +1,37 @@
 # wz_wireframe_kit_sketch
 Draw wireframes quickly and easily. Bring convenience to your work!
 
+Version: 1.0.
+
+![](https://github.com/wendzhue/wz_wireframe_kit_sketch/blob/master/Preview/preview-1.png)
+
 ## What's this?
 `wz_wireframe_kit.sketch` contains lots of elements you can use in your wireframes files.
 
 I have seen and used lots of wireframe kits. Though they are all beautiful enough, they are not friendly to others. They have no explanations telling how the app works. So I designed `wz_wireframe_kit.sketch` and hope it could be friendly to designers, product managers and engineers, making wireframe a useful tool for communication.
 
-![wz_wireframe_kit.sketch](https://github.com/wendzhue/wz_wireframe_kit_sketch/blob/master/Preview/preview-1.png)
+![](https://github.com/wendzhue/wz_wireframe_kit_sketch/blob/master/Preview/preview-3.png)
 
-**iPhone 6 Mockup**. Four kinds of iPhone 6 mockups. Important, Blank, With Navigation, With Tab Bar. To bring convenience to your work...
+It has:
 
-**Placeholders**. Image Placeholders, Avatar Placeholders - Circle and Rounded Rectangle...
+**iPhone 6 Mockup**. Four kinds of iPhone 6 mockups. Important, Blank, With Navigation, With Tab Bar. To bring convenience to your work.
 
-**Buttons**. Primary Buttons, Tiny Button, Circle Buttons...
+**Placeholders**. Image Placeholders, Avatar Placeholders - Circle and Rounded Rectangle.
 
-**Links**. Arrow, Link, Click and Link, Action, Link With Action...
+**Buttons**. Primary Buttons, Tiny Button, Circle Buttons.
 
-**Tag**. Minimum and Maximum, Different Status, Interaction Explanations, If and Then...
+**Links**. Arrow, Link, Click and Link, Action, Link With Action, etc.
+
+**Tag**. Minimum and Maximum, Different Status, Interaction Explanations, If and Then, etc.
 
 ## How to use?
-Download, open, copy, paste and edit! That's easy!
+Download `wz_wireframe_kit_1.0.sketch`, open it. Then copy, paste and edit! That's easy!
 
 Use `iPhone Mockups` and `Interface Elements` to sketch interfaces . Use `Links` to demonstrate relations among the screens. And use `Tags` to write interaction guidelines for engineers.
 
-An example here, a news feed app wireframe:
+Here is an example for your reference, a news feed app wireframe. It's not finished but enough to show how to use the wireframe kit.
+
+![](https://github.com/wendzhue/wz_wireframe_kit_sketch/blob/master/Preview/preview-2.png)
 
 ## Offer help!
-Whatever you want, make an issue in the repository and I will try my best to make improvements. And welcome to make pull requests!
+It still needs (quiet a lot) improvements. So if you come across trouble using it, or have suggestion, whatever, make an issue in the repository or just send me an email, and I will try my best to make improvements. And welcome to make pull requests!
