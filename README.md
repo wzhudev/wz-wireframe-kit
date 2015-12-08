@@ -1,7 +1,7 @@
-# wz_wireframe_kit_sketch
+# wz_wireframe_kit.sketch
 Draw wireframes quickly and easily. Bring convenience to your work!
 
-Version: 1.0.
+**Now completed and released as version 1.0.**
 
 ![](https://github.com/wendzhue/wz_wireframe_kit_sketch/blob/master/Preview/preview-1.png)
 
