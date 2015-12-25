@@ -33,5 +33,8 @@ Here is an example for your reference, a news feed app wireframe. It's not finis
 
 ![](https://github.com/wendzhue/wz_wireframe_kit_sketch/blob/master/Preview/preview-2.png)
 
+## Thanks
+The work is inspired by [Wireframe Kit for iPhone 6 Sketch Resource](http://www.sketchappsources.com/free-source/1091-wireframe-kit-iphone-6-sketch-freebie-resource.html). Many thanks to the designer [Barbara Giardelli](http://www.sketchappsources.com/contributor/bgiardelli).
+
 ## Offer help!
 It still needs (quiet a lot) improvements. So if you come across trouble using it, or have suggestion, whatever, make an issue in the repository or just send me an email, and I will try my best to make improvements. And welcome to make pull requests!
