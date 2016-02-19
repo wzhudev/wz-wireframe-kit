@@ -1,6 +1,6 @@
 # wz_wireframe_kit.sketch
 
-![](https://github.com/wendzhue/wz_wireframe_kit_sketch/blob/master/Preview/preview.png))
+![](https://github.com/wendzhue/wz_wireframe_kit_sketch/blob/master/Preview/preview.png)
 
 Draw wireframes quickly and easily. Bring convenience to your work!
 
