@@ -8,13 +8,15 @@ Draw wireframes quickly and easily. Bring convenience to your work!
 
 ![](https://github.com/wendzhue/wz_wireframe_kit_sketch/blob/master/Preview/preview-1.png)
 
-## Upadate Records
+## Update Records
 
-### Version 1.1 Febrary 19th, 2016
+### Version 1.1 February 19th, 2016
 
-I used `wz_wireframekit.sketch` in my app *Today* and found something inconvenient. So I update it. It's now a lttile more beautiful-looking. :)
+I used `wz_wireframekit.sketch` in my app *Today* and found something inconvenient. So I update it. It's now a little more beautiful-looking. :)
 
-### Version 1.0 December, 2016
+### Version 1.0 December 10th, 2016
+
+The original version. You can download it on [Sketch App Sources](http://www.sketchappsources.com/free-source/1687-wz-wireframe-kit-sketch-freebie-resource.html).
 
 ---
 
@@ -55,5 +57,3 @@ The work is inspired by [Wireframe Kit for iPhone 6 Sketch Resource](http://www.
 ## Offer help!
 
 It still needs (quiet a lot) improvements. So if you come across trouble using it, or have suggestion, whatever, make an issue in the repository or just send me an email, and I will try my best to make improvements. And welcome to make pull requests!
-
-
