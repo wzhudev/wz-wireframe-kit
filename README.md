@@ -1,5 +1,9 @@
 # wz_wireframe_kit.sketch
 
+I am now planning to code a Sketch Plugin based on this repo. Contact me if you are interested!
+
+---
+
 ![](https://github.com/wendzhue/wz_wireframe_kit_sketch/blob/master/Preview/preview.png)
 
 Draw wireframes quickly and easily. Bring convenience to your work!
@@ -16,7 +20,7 @@ I used `wz_wireframekit.sketch` in my app *Today* and found something inconvenie
 
 ### Version 1.0 December 10th, 2016
 
-The original version. You can download it on [Sketch App Sources](http://www.sketchappsources.com/free-source/1687-wz-wireframe-kit-sketch-freebie-resource.html).
+The original version.
 
 ---
 
