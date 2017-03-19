@@ -1,28 +1,11 @@
 # wz_wireframe_kit.sketch
 
-I am now planning to code a Sketch Plugin based on this repo. Contact me if you are interested!
-
----
+A kit to draw wireframes and note interaction details.
 
 ![](https://github.com/wendzhue/wz_wireframe_kit_sketch/blob/master/Preview/preview.png)
 
-Draw wireframes quickly and easily. Bring convenience to your work!
-
-**Now completed and released as version 1.1.**
-
 ![](https://github.com/wendzhue/wz_wireframe_kit_sketch/blob/master/Preview/preview-1.png)
 
-## Update Records
-
-### Version 1.1 February 19th, 2016
-
-I used `wz_wireframekit.sketch` in my app *Today* and found something inconvenient. So I update it. It's now a little more beautiful-looking. :)
-
-### Version 1.0 December 10th, 2016
-
-The original version.
-
----
 
 ## What's this?
 
@@ -54,10 +37,15 @@ Here is an example for your reference, a news feed app wireframe. It's not finis
 
 ![](https://github.com/wendzhue/wz_wireframe_kit_sketch/blob/master/Preview/preview-2.png)
 
+## Update Records
+
+### Version 1.1 February 19th, 2016
+
+I used `wz_wireframekit.sketch` in my app *Today* and found something inconvenient. So I update it. It's now a little more beautiful-looking. :)
+
+### Version 1.0 December 10th, 2016
+
+
 ## Appreciantion
 
 The work is inspired by [Wireframe Kit for iPhone 6 Sketch Resource](http://www.sketchappsources.com/free-source/1091-wireframe-kit-iphone-6-sketch-freebie-resource.html). Many thanks to the designer [Barbara Giardelli](http://www.sketchappsources.com/contributor/bgiardelli).
-
-## Offer help!
-
-It still needs (quiet a lot) improvements. So if you come across trouble using it, or have suggestion, whatever, make an issue in the repository or just send me an email, and I will try my best to make improvements. And welcome to make pull requests!
