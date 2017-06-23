@@ -2,9 +2,9 @@
 
 A kit to draw wireframes and note interaction details.
 
-![](preview/preview.png)
+![](image/preview.png)
 
-![](preview/preview-1.png)
+![](image/preview-1.png)
 
 
 ## What's this?
@@ -13,7 +13,7 @@ A kit to draw wireframes and note interaction details.
 
 I have seen and used lots of wireframe kits. Though they are all beautiful enough, they are not friendly to others. They have no explanations telling how the app works. So I designed `wz_wireframe_kit.sketch` and hope it could be friendly to designers, product managers and engineers, making wireframe a useful tool for communication.
 
-![](preview/preview-3.png)
+![](image/preview-3.png)
 
 It has:
 
@@ -35,7 +35,7 @@ Use `iPhone Mockups` and `Interface Elements` to sketch interfaces . Use `Links`
 
 Here is an example for your reference, a news feed app wireframe. It's not finished but enough to show how to use the wireframe kit.
 
-![](preview/preview-2.png)
+![](image/preview-2.png)
 
 ## Update Records
 
